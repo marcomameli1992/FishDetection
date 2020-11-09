@@ -1,0 +1,4 @@
+classes=7
+train=/content/train.txt
+valid=/content/valid.txt
+names=/content/dataset/labeling/nomi.names
